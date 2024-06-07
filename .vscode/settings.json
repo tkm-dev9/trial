@@ -11,6 +11,12 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "editor.formatOnSave": true,
